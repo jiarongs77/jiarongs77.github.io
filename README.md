@@ -1,6 +1,6 @@
 # jiarongs77.github.io
 
-[Personal portfolio](jiarongs77.github.io) to showcase projects and document learning notes.
+[Personal portfolio](https://jiarongs77.github.io/) to showcase projects and document learning notes.
 
 ## Get Started
 
