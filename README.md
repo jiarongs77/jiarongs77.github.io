@@ -1,4 +1,6 @@
-# eclipsegst.github.io
+# jiarongs77.github.io
+
+Personal portfolio to showcase projects and document learning notes.
 
 ## Getting Started
 
