@@ -2,7 +2,7 @@
 
 Personal portfolio to showcase projects and document learning notes.
 
-## Getting Started
+## Get Started
 
 ```bash
 bundle install
