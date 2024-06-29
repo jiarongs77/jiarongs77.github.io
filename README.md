@@ -1,6 +1,8 @@
-# eclipsegst.github.io
+# jiarongs77.github.io
 
-## Getting Started
+[Personal portfolio](https://jiarongs77.github.io/) to showcase projects and document learning notes.
+
+## Get Started
 
 ```bash
 bundle install
