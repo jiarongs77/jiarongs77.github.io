@@ -38,26 +38,46 @@ The following features are implemented:
 
 - [Flutter](https://docs.flutter.dev/) : an open source framework by Google for building  multi-platform applications 
 
-- [Shared Prefence](https://docs.flutter.dev/cookbook/persistence/key-value) : store small amounts of data in key-value pairs on a user's device
-
 - [Postico2](https://eggerapps.at/postico2/) : visualize database tables
+
+- [JSON and serialization](https://docs.flutter.dev/data-and-backend/serialization/json) : read and parse data model
+
+- Persist data:
+
+  - [SQLite](https://docs.flutter.dev/cookbook/persistence/sqlite) : software library to persist data locally on mobile / desktop side
+
+  - [Shared preference](https://docs.flutter.dev/cookbook/persistence/key-value)
+  
+    - store small amounts of data in key-value pairs, eg. access tokens etc.
+   
+    - web side data storage
+
+- [ChangeNotifier](https://docs.flutter.dev/data-and-backend/state-mgmt/simple#changenotifier) : manage authentication states (login / logout)
+
+- [Firebase](https://firebase.google.com/docs/hosting/quickstart): web app deployment
 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-[![Watch the video](https://img.youtube.com/vi/mFYySX9nKXY/0.jpg)](https://youtu.be/mFYySX9nKXY)
+[![Watch the video](https://img.youtube.com/vi/SCk-kcBZ2K8/0.jpg)](https://youtu.be/SCk-kcBZ2K8)
 
 ## Future Milestones
 
 - [BLOC](https://bloclibrary.dev/architecture/) : state management library
 
-- [ChangeNotifier](https://docs.flutter.dev/data-and-backend/state-mgmt/simple#changenotifier) : manage authentication state (login/logout state)
-
-- [JSON and serialization](https://docs.flutter.dev/data-and-backend/serialization/json) : read and parse data
-
-- [SQLite](https://docs.flutter.dev/cookbook/persistence/sqlite) : persist data locally
+- **Architect client more properly** 
+  - Basic architecture
+    - Feature
+      - Authentication
+      - Item list 
+      - Detail item
+    - Modules
+      - Models
+      - Repository
+      - [Network request (Restful API calls)](https://docs.flutter.dev/data-and-backend/networking)
+      - UI
 
 
 
